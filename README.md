@@ -1,2 +1,2 @@
 # GESTION_CPDN
-<img src="PROJET-SCHOOL.gif" alt="gestion cpdn" />
+<img src="PHP-SCHOOL.gif" alt="gestion cpdn" />
